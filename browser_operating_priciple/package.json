@@ -1,0 +1,19 @@
+{
+  "name": "week_1_browser_operating_priciple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TerryLiu0321/Frontend_Training_Camp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TerryLiu0321/Frontend_Training_Camp/issues"
+  },
+  "homepage": "https://github.com/TerryLiu0321/Frontend_Training_Camp#readme"
+}
